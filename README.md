@@ -12,3 +12,5 @@ How to use?
 4. Go onto the website and input a URI or URL
 
 
+To implement into own software:
+  All functions are in the /downloadApp/ directory.
